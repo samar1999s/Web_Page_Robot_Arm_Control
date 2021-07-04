@@ -1,7 +1,6 @@
 # Web_Page_Robot_Arm_Control
 <br>
 <br>
-
 ### 1.index.html
 <br>
 ### 2.style.css
